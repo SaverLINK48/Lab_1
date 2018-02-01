@@ -1,2 +1,2 @@
-# Lab_1
-Lab 1 assigment
+# Lab_2
+Lab 2 assigment
